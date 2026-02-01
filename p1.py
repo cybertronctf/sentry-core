@@ -1,1 +1,1 @@
-print("sentry-core UPDATE2")
+print("sentry-core FIX2")
