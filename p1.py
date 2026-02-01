@@ -1,1 +1,1 @@
-print("sentry-core INSERT")
+print("sentry-core UPDATE")
